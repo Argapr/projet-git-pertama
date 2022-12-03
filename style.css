@@ -21,3 +21,16 @@ header {
     transition: .3s;
     font-family: 'Solway', serif;
 }
+.navbar {
+    display: flex;
+    margin-right: 100px;
+}
+.navbar li {
+    margin: 20px;
+}
+.navbar a {
+color: black;
+}
+.navbar a:hover {
+    color: white;
+}
